@@ -1,0 +1,30 @@
+{
+  "name": "@umm/haptic_feedback",
+  "version": "0.0.0",
+  "description": "haptic feedback utility",
+  "homepage": "https://github.com/umm/haptic_feedback",
+  "bugs": {
+    "url": "https://github.com/umm/haptic_feedback/issues"
+  },
+  "scripts": {
+    "umm:init": "umm-init",
+    "umm:generate_assembly_definition": "umm-generate_assembly_definition",
+    "umm:module:install": "umm-module-install",
+    "umm:module:uninstall": "umm-module-uninstall",
+    "postinstall": "npm run --silent umm:module:install",
+    "postuninstall": "npm run --silent umm:module:uninstall"
+  },
+  "author": "Takuma Maruyama",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:umm/haptic_feedback"
+  },
+  "files": [
+    "Assets"
+  ],
+  "dependencies": {
+    "@umm/scripts": "umm/scripts#^1.0.0"
+  },
+  "devDependencies": {}
+}
