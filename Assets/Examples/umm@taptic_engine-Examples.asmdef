@@ -1,0 +1,10 @@
+{
+    "name": "umm@taptic_engine-Examples",
+    "references": [
+        "umm@taptic_engine"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

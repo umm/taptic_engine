@@ -1,10 +1,10 @@
 {
-  "name": "@umm/haptic_feedback",
+  "name": "@umm/taptic_engine",
   "version": "0.0.0",
-  "description": "haptic feedback utility",
-  "homepage": "https://github.com/umm/haptic_feedback",
+  "description": "taptic feedback utility",
+  "homepage": "https://github.com/umm/taptic_engine",
   "bugs": {
-    "url": "https://github.com/umm/haptic_feedback/issues"
+    "url": "https://github.com/umm/taptic_engine/issues"
   },
   "scripts": {
     "umm:init": "umm-init",
@@ -18,7 +18,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:umm/haptic_feedback"
+    "url": "git@github.com:umm/taptic_engine"
   },
   "files": [
     "Assets"
