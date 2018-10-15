@@ -1,6 +1,6 @@
 {
   "name": "@umm/taptic_engine",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "taptic feedback utility",
   "homepage": "https://github.com/umm/taptic_engine",
   "bugs": {
